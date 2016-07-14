@@ -15,15 +15,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/report',function(){
-	return 'Report page';
-});
-
-Route::get('/about',function(){
-	return 'About page';
-});
-
-
-Route::get('/about',function(){
-	return 'About page';
-});

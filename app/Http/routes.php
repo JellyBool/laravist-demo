@@ -22,3 +22,8 @@ Route::get('/report',function(){
 Route::get('/about',function(){
 	return 'About page';
 });
+
+
+Route::get('/about',function(){
+	return 'About page';
+});

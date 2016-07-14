@@ -40,7 +40,7 @@
             <div class="content">
                 <div class="title"> 
 
-                Laravel 5 Master
+                Laravel 5 Master -A
 
 
                 </div>

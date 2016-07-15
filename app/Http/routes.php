@@ -19,3 +19,7 @@ Route::get('/about', function () {
     return view('about');
 });
 
+Route::get('/github', function () {
+    return view('github');
+});
+

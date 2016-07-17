@@ -23,3 +23,7 @@ Route::get('/github', function () {
     return view('github');
 });
 
+Route::get('/rebase', function () {
+    return view('rebase');
+});
+

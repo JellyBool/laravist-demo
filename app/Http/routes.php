@@ -27,3 +27,7 @@ Route::get('/rebase', function () {
     return view('rebase');
 });
 
+Route::get('/add', function () {
+    return view('add');
+});
+

@@ -31,3 +31,7 @@ Route::get('/add', function () {
     return view('add');
 });
 
+Route::get('/test', function () {
+
+});
+
